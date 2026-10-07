@@ -1,113 +1,125 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E75B6,100:38BDF8&height=220&section=header&text=Biswadip%20Samadder&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=BISWADIP%20SAMADDER&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20SPRING%20BOOT%20%7C%20FULL%20STACK&descAlignY=60&descSize=16&fontColor=ffffff&color=0:020617,45:0F172A,75:0369A1,100:38BDF8"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+real-world+software.;Java+%7C+Spring+Boot+%7C+REST+APIs;Full+Stack+Development+%7C+SQL;Turning+ideas+into+working+applications.;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+MCA+Candidate;Building+real-world+software+applications.;Java+%7C+Spring+Boot+%7C+REST+APIs;Full+Stack+Development+%7C+SQL;Designing+clean%2C+scalable+and+useful+systems.;Turning+ideas+into+working+software."/>
 
 <br><br>
 
 <a href="https://biswadip-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0E75B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
-&nbsp;
+
 <a href="https://biswadip-portfolio.vercel.app/resume.pdf">
-<img src="https://img.shields.io/badge/📄%20RESUME-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESUME-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=38BDF8"/>
 </a>
-&nbsp;
+
+<a href="https://github.com/biswadip-s">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
 <a href="mailto:biswadipsamadder@gmail.com">
-<img src="https://img.shields.io/badge/✉%20CONTACT-D14836?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=biswadip-s&label=PROFILE%20VIEWS&color=0E75B6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=biswadip-s&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+# 👨‍💻 About Me
 
-## 👋 About Me
+```java
+public class BiswadipSamadder {
 
-<table>
-<tr>
-<td width="55%" valign="top">
+    String role = "Software Developer";
+    String education = "MCA Candidate";
+    String location = "Kolkata, India";
 
-### I'm Biswadip.
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "REST APIs",
+        "Database Design",
+        "Software Engineering"
+    };
 
-I'm an **MCA candidate and Software Developer** focused on building practical, scalable and user-focused applications.
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "Backend Architecture",
+        "Advanced Java",
+        "System Design"
+    };
 
-I enjoy working across the stack — from creating responsive interfaces to developing backend APIs and designing relational databases.
+    String philosophy =
+        "Build → Learn → Improve → Repeat";
+}
+```
 
-Currently focused on:
+I'm a **Software Developer and MCA candidate** passionate about building practical software that solves real problems.
 
-- ☕ Java & Spring Boot
-- 🔗 REST API Development
-- 🗄️ SQL & Database Design
-- 🌐 Full Stack Web Development
-- 🧩 Clean & Maintainable Code
-- 🚀 Real-world Software Projects
+I enjoy working across the stack — designing responsive interfaces, building backend services, creating REST APIs, and working with relational databases.
 
-</td>
-
-<td width="45%" valign="top">
-
-### ⚡ Quick Facts
-
-🎓 **MCA Candidate**  
-📍 **Kolkata, India**  
-💻 **Software Developer**  
-☕ **Java Backend Enthusiast**  
-🌐 **Full Stack Developer**  
-🛠️ **Problem Solver**  
-📚 **Continuous Learner**
-
-<br>
-
-> **Build → Learn → Improve → Repeat**
-
-</td>
-</tr>
-</table>
+My main focus is **Java backend development and full-stack engineering**, with an emphasis on clean code, maintainable architecture, and real-world projects.
 
 ---
 
-# 🧠 What I Work With
+# ⚡ Developer Snapshot
 
 <div align="center">
 
-### ☕ Backend
+| | |
+|---|---|
+| 🎓 **Education** | MCA Candidate |
+| 💻 **Primary Language** | Java |
+| 🚀 **Backend** | Spring Boot |
+| 🌐 **Frontend** | HTML • CSS • JavaScript |
+| 🗄️ **Databases** | MySQL • Oracle |
+| 🔗 **APIs** | REST • JDBC |
+| 🛠️ **Tools** | Git • GitHub • VS Code • Postman |
+| 🛍️ **Additional** | Shopify Liquid |
+| 📍 **Based in** | Kolkata, India |
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</div>
+
+---
+
+# 🧠 Tech Arsenal
+
+<div align="center">
+
+### ☕ Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 
 <br><br>
 
-### 🌐 Frontend
+### 🚀 Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,oracle" />
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 
 <br><br>
 
-### 🛠️ Tools
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-111827?style=for-the-badge"/>
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shopify%20Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white"/>
 
 </div>
 
@@ -115,103 +127,124 @@ Currently focused on:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+### 🏋️ FITGO
 
-## 🏋️ FitGo
+**Fitness & Grocery Management System**
 
-### Fitness & Grocery Management System
+`Java` `SQL` `JavaScript` `HTML` `CSS`
 
-**Java • SQL • JavaScript • HTML • CSS**
+</div>
 
-A full-stack application designed for structured management of fitness and grocery-related records.
+> A practical full-stack application designed to manage fitness and grocery-related information through structured workflows and database-driven functionality.
 
-**Highlights**
+**Core Features**
 
-- CRUD workflows
-- Normalized SQL database
-- Java backend
-- Responsive UI
-- OOP architecture
-- Mobile-first design
-
-<br>
-
-<a href="https://github.com/biswadip-s">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0E75B6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📚 LibraTrack
-
-### Library Management REST API
-
-**Java • Spring Boot • MySQL • REST API**
-
-A full-stack library management system built around a Spring Boot REST API.
-
-**Highlights**
-
-- GET / POST / PUT / DELETE
-- JSON responses
-- MySQL database
-- SQL relationships
-- Validation & exceptions
-- Postman testing
-
-<br>
-
-<a href="https://github.com/biswadip-s">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0E75B6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
-
-## 💎 GrahaRatna
-
-### Shopify Store Optimization
-
-**Shopify Liquid • JavaScript • HTML • CSS**
-
-Real-world Shopify storefront customization focused on responsive layouts, reusable theme sections and improved product-page usability.
+- 🔐 User-oriented workflows
+- 🗄️ Structured SQL database
+- 🔄 CRUD operations
+- 🧩 Object-oriented architecture
+- 📱 Responsive interface
+- 📊 Data management
+- 🛠️ Backend-driven functionality
 
 <div align="center">
 
-<a href="https://www.graharatna.store/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20STORE-0E75B6?style=for-the-badge&logo=shopify&logoColor=white"/>
+<a href="https://github.com/biswadip-s">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-</td>
-
-</tr>
-</table>
-
 ---
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=biswadip-s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"/>
+### 📚 LIBRATRACK
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadip-s&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+**Library Management REST API**
 
-<br><br>
+`Java` `Spring Boot` `MySQL` `REST API`
 
-<img width="70%" src="https://streak-stats.demolab.com?user=biswadip-s&theme=tokyonight&hide_border=true"/>
+</div>
+
+> A backend-focused library management system built around RESTful architecture and relational database operations.
+
+**Core Features**
+
+- `GET`
+- `POST`
+- `PUT`
+- `DELETE`
+- JSON responses
+- MySQL integration
+- Entity relationships
+- Validation
+- Exception handling
+- API testing with Postman
+
+<div align="center">
+
+<a href="https://github.com/biswadip-s">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💎 GRAHARATNA
+
+**E-Commerce Storefront Engineering**
+
+`Shopify Liquid` `JavaScript` `HTML` `CSS`
+
+</div>
+
+> Real-world storefront customization focused on responsive UI, reusable Shopify sections, product-page improvements, and conversion-oriented user experience.
+
+**Work Includes**
+
+- 🎨 Custom Shopify sections
+- 📱 Responsive layouts
+- 🧩 Liquid customization
+- ⚡ Frontend interactions
+- 🛍️ Product-page optimization
+- 🖼️ Custom promotional sections
+- 📐 Mobile-first improvements
+
+<div align="center">
+
+<a href="https://www.graharatna.store/">
+<img src="https://img.shields.io/badge/VISIT%20LIVE%20STORE-0369A1?style=for-the-badge&logo=shopify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🏗️ What I'm Building
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                 CURRENT FOCUS                       │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  ☕ Advanced Java                                   │
+│  🚀 Spring Boot Applications                        │
+│  🔗 REST API Architecture                           │
+│  🗄️ Database Design & Optimization                 │
+│  🧩 Clean Backend Architecture                      │
+│  🌐 Full Stack Applications                         │
+│  🏗️ Software Engineering Practices                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -221,76 +254,108 @@ Real-world Shopify storefront customization focused on responsive layouts, reusa
 
 ### 🏢 Deloitte — Coding & Development Job Simulation
 
-`September 2026`
+**September 2026**
 
-Completed practical, job-simulated development tasks involving:
+Completed practical job-simulated development work involving:
 
-- Algorithm design
-- Data structure fundamentals
-- Data model transformation
+- Algorithmic problem solving
+- Data structures
+- Data transformation
 - Software development planning
 - Technical communication
 
 ---
 
-# 📚 Currently Learning
+# 📈 GitHub Performance
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-Deep%20Dive-0E75B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Design-Improving-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-Always%20Learning-111827?style=for-the-badge"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=biswadip-s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadip-s&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=biswadip-s&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026
+# 🐍 Contribution Activity
 
 <div align="center">
 
-| 🚀 Focus | 📚 Goal |
-|---|---|
-| 💻 Building | Real-world software applications |
-| ☕ Learning | Advanced Java & Spring Boot |
-| 🏗️ Improving | Backend architecture & database design |
-| 🌐 Exploring | Open-source contribution |
-| 🎯 Goal | Becoming a stronger Software Developer |
+<img src="https://raw.githubusercontent.com/biswadip-s/biswadip-s/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 🎯 2026 Mission
 
 <div align="center">
 
-<br>
+| Focus | Mission |
+|:---:|:---|
+| ☕ **Java** | Master advanced backend development |
+| 🚀 **Spring Boot** | Build production-style applications |
+| 🔗 **REST APIs** | Design clean and scalable APIs |
+| 🗄️ **Databases** | Improve SQL & database architecture |
+| 🌐 **Full Stack** | Build complete end-to-end systems |
+| 🌍 **Open Source** | Start meaningful contributions |
+| 💼 **Career** | Become a stronger Software Engineer |
+
+</div>
+
+---
+
+# 📊 Developer Mindset
+
+<div align="center">
+
+> **Don't just write code.**
+>
+> **Understand the problem.**
+>
+> **Design the solution.**
+>
+> **Build it.**
+>
+> **Test it.**
+>
+> **Improve it.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/biswadip-s">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://biswadip-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://biswadip-portfolio.vercel.app/resume.pdf">
-<img src="https://img.shields.io/badge/Resume-475569?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <a href="mailto:biswadipsamadder@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
-### ✨ Build. Learn. Improve. Repeat.
+### `BUILD • LEARN • IMPROVE • REPEAT`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0E75B6,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,45:0369A1,75:0F172A,100:020617"/>
 
 </div>
